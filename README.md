@@ -1,4 +1,4 @@
-# Cpmputer Science for Regex Pal
+# Computer Science for Regex Pal
 
 Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ Regex is tricky to understand, but regular expressions help identifiy. As we look into a particular example that of matching an email using regular expression. This will indeed help us breaking the down components of regular expressions.
 
